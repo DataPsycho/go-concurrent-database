@@ -1,0 +1,5 @@
+.DS_Store
+/bin
+/pkg
+*.sh
+src/ninja-level-01/01-hello
